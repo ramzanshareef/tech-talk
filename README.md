@@ -1,6 +1,6 @@
 # 📢 TechTalk
 
-Welcome to **TechTalk**, the ultimate social media platform tailored for developers. Share your technical expertise, collaborate with communities, and stay updated on the latest trends.
+Welcome to TechTalk, a social media platform designed for developers to share their technical knowledge, collaborate in communities, and discover trending things...
 
 ## 🚀 Features
 
@@ -14,23 +14,23 @@ Welcome to **TechTalk**, the ultimate social media platform tailored for develop
 
 - **Trending Content**: Our custom algorithm highlights trending posts so you can easily find popular discussions and hot topics within the developer community.
 
-## 🛠️ Technologies Utilized
+- **Infinite Scrolling**: Leverages the use of Infinite scrolling in the posts being shown on the main page.
 
-- **Next.js**: A powerful React framework for server-rendered applications.
-- **TipTap**: A high-performance, extensible WYSIWYG editor for React and Next.js.
-- **Clerk**: Comprehensive User Management Platform for secure authentication and session management.
-- **MongoDB**: A NoSQL database for storing user information, posts, and community data.
-- **Mongoose**: An object modeling tool for MongoDB, designed to work seamlessly in asynchronous environments.
-- **Tailwind CSS**: A utility-first CSS framework for styling, enhanced with Tailwind Merge for better class management.
+- **Stories**: Enjoy watching other developers inside looks through stories.
 
-## 📝 Getting Started
+## 🛠️ Technologies Used
 
-To run TechTalk locally, follow these instructions:
+- **Next.js**: React framework for server-rendered applications.
+- **TipTap**: WYSIWYG editor for Next.js and React with a focus on performance and extensibility.
+- **MongoDB**: NoSQL database used for storing user data, posts, and community information.
+- **Mongoose**: MongoDB object modeling tool designed to work in an asynchronous environment.
+- **Tailwind CSS**: Utility-first CSS framework for styling with Tailwind Merge for enhanced utility class management.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/B-Sujith-Kumar/tech-talk.git
-   ```
+## 📝 Usage
+
+To run TechTalk locally, follow these steps:
+
+1. **Clone the repository**: `git clone https://github.com/ramzanshareef/tech-talk.git`
 2. **Navigate to the directory**: `cd tech-talk`
 3. **Install dependencies**: `npm install`
 4. **Set up environment variables** as follows:
@@ -50,9 +50,10 @@ To run TechTalk locally, follow these instructions:
    ```bash
    npm run dev
    ```
+   
 ## 👨🏻‍💻 Other Contributors
 
-- [ramzanshareef](https://github.com/ramzanshareef)
+- [B-Sujith-Kumar](https://github.com/B-Sujith-Kumar)
 
 ## 🤝 Contributing
 
@@ -67,6 +68,6 @@ Contributions are welcome! Please follow these steps to contribute:
 ## 👉 Contact
 
 For any inquiries or feedback, please reach out to:
-- **Name**: Banda Sujith Kumar
-- **Email**: sujith.suave@gmail.com
-- **GitHub**: [B-Sujith-Kumar](https://github.com/B-Sujith-Kumar)
+- **Name**: Mohd Ramzan Shareef
+- **Email**: mail.ramzanshareef@gmail.com
+- **GitHub**: [ramzanshareef](https://github.com/ramzanshareef)
